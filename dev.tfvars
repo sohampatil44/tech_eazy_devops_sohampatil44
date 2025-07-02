@@ -12,3 +12,5 @@ security_group_id = "sg-08bb9c90c30368133"
 
 stage  = "Dev"
 
+bucket_name = "techeazy-bucket"
+
